@@ -1,0 +1,3 @@
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#  mr.zhouxx.rushboot.conf.RushBootMainConfig,\
+#  io.github.ohofun.dim.starter.util.SpringUtils
